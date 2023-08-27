@@ -1,7 +1,4 @@
 from django.shortcuts import render
-from django.http import HttpResponse
 
-# Create your views here.
-
-def main(request):
-    return HttpResponse('Hello World')
+def ContactView(request):
+    return render(request, 'api/home.html')  # Make sure this path is correct

@@ -159,6 +159,15 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-
+.vscode/
 # CICD
 cicd/*
+
+
+#Node JS
+
+portfolio/frontend/node_modules/*
+portfolio/frontend/node_modules/npm-debug.log
+portfolio/frontend/node_modules/yarn-error.log
+portfolio/frontend/node_modules/yarn.lock
+
