@@ -56,7 +56,7 @@ PRAMA HIKVISION PVT. LTD**,** Mumbai, India						          	      09/2016 – 09
 
 **Projects*** 														
 
-- ` `**Master Thesis:** *Semi-automate annotation of point cloud data* 
+- **Master Thesis:** *Semi-automate annotation of point cloud data* 
   - Developed a semi-automated annotation technique for point cloud data applied machine learning using  Python Djnago and React JS, reducing manual effort while maintaining high accuracy.
   - Integrated this technique into Label Studio, an open-source data annotation platform, via custom REST APIs for seamless 3D point cloud data import and annotation.
   - Improved annotation quality through data preprocessing techniques (RANSAC, K-Means clustering) to remove outliers and enhance clustering.
